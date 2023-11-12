@@ -1,6 +1,6 @@
 # aplikasi-kasir-web
 
-<a href="https://ibb.co/VCDn1Dg"><img src="https://i.ibb.co/FYJZrJ5/vvv.gif" alt="vvv" border="0" /></a>
+<img src="https://i.ibb.co/s1QxfQK/vvv.gif">
 
 Ini adalah aplikasi kasir yang hanya di khususkan untuk restoran . aplikasi ini cukup powerfull jika hanya untuk di gunakan oleh UMKM yang merintis usaha sendiri (tanpa karyawan)
 teknologi yang di gunakan
